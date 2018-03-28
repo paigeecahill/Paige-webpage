@@ -1,0 +1,20 @@
+/*
+* Paige Cahill
+* 3-28-18
+* CSS Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: plum;
+	color: navy;
+
+}

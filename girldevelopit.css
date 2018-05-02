@@ -1,0 +1,48 @@
+/*
+* Paige Cahill
+* 3-28-18
+* Girl Develop It Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	background-color: pink;
+	font-family: sans-serif; font-size: 12pt;
+}
+
+h1 {
+	text-decoration: underline;
+	font-size: 120%;
+	font-family: cursive; 
+
+}
+
+h2 {
+	text-decoration: underline;
+	font-size: 120%;
+	font-family: cursive;
+	
+}
+
+footer { 
+	font-family: serif;
+	a:hover, a:focus 
+	color: pink;
+	font-size: 120%;
+	.right { float: right; }
+	
+}
+	
+header {
+	background-color: lightcoral;
+	text-align: center;
+	
+}

@@ -1,0 +1,51 @@
+/*
+* Paige Cahill
+* 3-28-18
+* Box Model 
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+*{
+	margin: 0;
+	padding: 0;
+}
+/* this is the body*/
+body {
+	background-color: white; 
+	border: 4px dotted black;
+	padding: 20px;
+	
+
+}
+/* this is the main*/
+main {
+	background-color: white; 
+	border: 2px solid black;
+	padding: 10px;
+	padding: 30px;	
+
+}
+/* this is the h1 and p*/
+h1 {
+	
+	background-color: white;
+	border: 2px dotted black;
+	padding: 10px;
+
+}
+
+p {
+	background-color: white;
+	border: 2px dotted black;
+	padding: 10px;
+
+}
+
+

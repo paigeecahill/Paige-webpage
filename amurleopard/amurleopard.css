@@ -1,0 +1,123 @@
+/*
+* Paige Cahill
+* 5-16-18
+* Amur Leopard
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* this is the body*/
+body {
+	background-color:PowderBlue; 
+	padding: 20px;
+	text-align: left;
+}
+
+/* this is the main*/
+main {
+	background-color: PowderBlue; 
+	padding: 10px;
+	padding: 30px;	
+}
+
+/* this is the h1 and h2*/
+h1 {
+	font-family: serif; 
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center; 
+	background-color: PowderBlue;
+	padding: 10px;
+	border-bottom: 6px solid steelblue;
+	margin: 15px 
+}
+
+h2 {
+	font-family: sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	background-color: PowderBlue;
+}
+
+/* these are the images*/
+.image0 {
+	float: left; 
+	border: 6px dashed steelblue;
+	margin: 10px;
+}
+
+.image1 { 
+		height: 170px; 
+		width: 220px; 
+		border: 4px solid steelblue;
+		margin: 10px;
+		clear: left;
+}
+
+.image2 {
+		height: 170px;
+		width: 220px;
+		border: 4px solid steelblue;
+		margin: 10px;
+}
+
+.image3 {
+		height: 170px;
+		width: 220px;
+		border: 4px solid steelblue;
+		margin: 10px;
+}
+
+.image4 {
+		height: 170px;
+		width: 220px;
+		border: 4px solid steelblue;
+		margin: 10px;
+}
+
+.image5 {
+		height: 170px;
+		width: 220px;
+		border: 4px solid steelblue;
+		margin: 10px;
+}
+
+/* this is my last image*/
+.image6 {
+		height: 230px;
+		width: 300px;
+		border: 6px dashed steelblue;
+		margin: 10px;
+		float: right; 
+}
+
+/*this is my paragraph css*/
+p {
+	background-color: PowderBlue;
+	padding: 10px;
+	font-size: 20px
+}
+
+footer {
+	border-top: 6px solid steelblue;
+	clear: both;
+}
+
+
+
+
+
+
+

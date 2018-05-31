@@ -1,0 +1,106 @@
+/* Paige Cahill
+*  5-18-18 
+*  Final Project */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 90%;
+    background-color: lightblue;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+/* the heading for trivia and accomplishments*/
+h1 {
+    padding: 10px;
+    text-decoration: underline
+}
+h2{
+	font-size: 18px
+}
+/* the heading for biography*/
+h3 {
+	font-size: 30px
+}
+/* my header section*/
+header {
+    border-bottom: 2px solid steelblue;
+    text-align: center;
+}
+/*trivia bar*/
+#sidebarA {
+    width: 22%;
+    height: 500px;
+    float: left;
+    border-right: 2px solid steelblue;
+    margin: 10px;
+
+}
+/*biography bar*/
+main {
+    width: 50%;
+    height:500px;
+    float:left ;
+    margin: 10px;
+    text-align: left;
+}
+/*accomplishments bar*/
+#sidebarB {
+    width: 22%;
+    height: 500px;
+    float: right;
+    border-left: 2px solid steelblue;
+    margin: 10px;
+}
+/*sources bar*/
+footer {
+    clear: both ;
+    border-top: 2px solid steelblue;
+}
+/* my first image*/
+.image1 {
+	float: left;
+	height: 100px; 
+	width: 100px; 
+	border: 4px dashed steelblue;
+	margin: 10px;
+}
+/* my second image*/
+.image2 {
+	height: 110px; 
+	width: 110px; 
+	border: 4px dashed steelblue;
+	margin: 10px;
+	float: right;
+}
+.image4 {
+	height: 170px; 
+	width: 170px; 
+	border: 4px dashed steelblue;
+	margin: 10px;
+	float: clear;
+}
+.image3 {
+	height: 170px; 
+	width: 170px; 
+	border: 4px dashed steelblue;
+	margin: 10px;
+	float:clear;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
